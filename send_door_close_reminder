@@ -1,0 +1,8 @@
+source credentials.sh
+
+#golf view group
+#yowsup-cli demos -l $mobile_no:$access_key -s 918003544903-1404027493 "Testing 5s delay please ignore"
+
+#kattapa testing group
+yowsup-cli demos -l $mobile_no:$access_key -s 919703340528-1413444300 "Door is open for more than 5 minutes. Please check."
+
